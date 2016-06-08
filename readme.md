@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install @truffls/rebind-host --save
+$ npm install rebind-host --save
 ```
 
 ## License
