@@ -1,6 +1,6 @@
 {
   "name": "@truffls/rebind-host",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Express middleware to bind the correct host",
   "main": "index.js",
   "scripts": {
